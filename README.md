@@ -18,8 +18,8 @@ Welcome to my GitHub! I’m passionate about leveraging **Artificial Intelligenc
 
 ## 🛠️ Skills & Technologies
 
-### Programming Languages:
-- Python | JavaScript | HTML/CSS | C++ 
+### Programming Languages /skills:
+- Python | JavaScript | HTML/CSS | C++ | Block Programmming
 
 ### Design & Development:
 - Adobe Photoshop | Canva | Figma | Microsoft Copilot Studio
@@ -43,17 +43,14 @@ Welcome to my GitHub! I’m passionate about leveraging **Artificial Intelligenc
 - **Description:** Designed a high-traffic website for Olives Specialist Clinics, enhancing patient experience and showcasing advanced IVF solutions.
 - **Tech Stack:** WordPress, JavaScript.
 
-### 🌱 **High School Curriculum Simplification**
-- **Description:** Summarized high school Computer Science courses aligned with the Nigerian curriculum to make STEM accessible.
-
----
 
 
 ---
 
-## 📈 GitHub Stats
 
-![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamuelAdeniyi&show_icons=true&theme=radical)
+---
+
+
 
 ---
 
@@ -65,11 +62,7 @@ Welcome to my GitHub! I’m passionate about leveraging **Artificial Intelligenc
 
 ---
 
-## 🎯 Goals
 
-1. Build innovative robotics for medical applications.
-2. Explore **Electric Vehicles** tailored for the United States market.
-4. Gain admission to **Stanford University** for advanced studies in **Robotics and AI**.
 
 ---
 
