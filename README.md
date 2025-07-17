@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Samuel Adeniyi
 
-🎓 **Robotics & AI Enthusiast | UI/UX Designer | Aspiring Robotics Neurosurgeon|Full Stack Developer | Tech Community Builder**
+🎓 **Robotics & AI Enthusiast | UI/UX Designer | Aspiring Robotics Neurosurgeon|Full Stack Developer | Tech Community Builder|Cybersecurity **
 
 Welcome to my GitHub! I’m passionate about leveraging **Artificial Intelligence**, **Robotics**, and **Neuroscience** to advance healthcare and develop innovative solutions for brain surgeries and beyond. With a strong foundation in **Computer Science**, I enjoy solving complex problems and mentoring others in STEM and technology.
 
@@ -8,7 +8,7 @@ Welcome to my GitHub! I’m passionate about leveraging **Artificial Intelligenc
 
 ## 🌟 About Me
 
-- 🏫 **Student:** Currently studying Computer Science at Bowen University, Nigeria.
+- 🏫 **Student:** Currently studying Computer Science at Bowen University, Nigeria, also the President of Cybersecurity at Bowen TechHub.
 - 🤖 **Robotics Leader:** Former President of a national robotics team, leading us to secure national and international recognition.
 - 💻 **Tech Advocate:** GDG Silicon Valley Member with 7+ years of experience in **Tech Volunteering** and **Community Development**.
 - 🎨 **Creative Specialist:** Expertise in designing visually appealing graphics and enhancing brand visibility.
