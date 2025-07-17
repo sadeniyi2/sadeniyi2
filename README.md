@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Samuel Adeniyi
 
-🎓 **Robotics & AI Enthusiast | UI/UX Designer | Full Stack Developer | Tech Community Builder**
+🎓 **Robotics & AI Enthusiast | UI/UX Designer | Aspiring Robotics Neurosurgeon|Full Stack Developer | Tech Community Builder**
 
 Welcome to my GitHub! I’m passionate about leveraging **Artificial Intelligence**, **Robotics**, and **Neuroscience** to advance healthcare and develop innovative solutions for brain surgeries and beyond. With a strong foundation in **Computer Science**, I enjoy solving complex problems and mentoring others in STEM and technology.
 
